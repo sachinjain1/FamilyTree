@@ -1,0 +1,42 @@
+ADD_CHILD Lika vani Female
+GET_RELATIONSHIP  Chit Son
+GET_RELATIONSHIP  Chitra Son
+ADD_CHILD Lika Navitha Female
+GET_RELATIONSHIP  Chitra Daughter
+GET_RELATIONSHIP  Vich Daughter
+GET_RELATIONSHIP Vyan Brother-In-Law
+GET_RELATIONSHIP Vritha Brother-in-law
+ADD_CHILD Dritha Priyanka Female
+ADD_CHILD Vila Kavya Female
+GET_RELATIONSHIP  Chitra Brother-in-law
+GET_RELATIONSHIP Tritha Brother-in-law
+GET_RELATIONSHIP Jaya Sister-in-law
+GET_RELATIONSHIP Ish sister-in-law
+GET_RELATIONSHIP Satvy sister-in-law
+GET_RELATIONSHIP Satya sister-in-law
+GET_RELATIONSHIP Ahit Paternal-Uncle
+GET_RELATIONSHIP Ahit Paternal-Aunt
+GET_RELATIONSHIP Jnki Paternal-Uncle
+GET_RELATIONSHIP Jnki Paternal-Aunt
+GET_RELATIONSHIP Kriya Paternal-Uncle
+GET_RELATIONSHIP Kriya Paternal-Aunt
+GET_RELATIONSHIP Krithi Paternal-Uncle
+GET_RELATIONSHIP Krithi Paternal-Aunt
+GET_RELATIONSHIP Asva Maternal-Uncle
+GET_RELATIONSHIP Asva Maternal-Aunt
+GET_RELATIONSHIP Laki Maternal-Uncle
+GET_RELATIONSHIP Laki Maternal-Aunt
+GET_RELATIONSHIP Lavnya Maternal-Uncle
+GET_RELATIONSHIP Lavnya Maternal-Aunt
+GET_RELATIONSHIP Chit Son
+GET_RELATIONSHIP Chit Daughter
+GET_RELATIONSHIP Amba Son
+GET_RELATIONSHIP Amba Daughter
+GET_RELATIONSHIP Vich Daughter
+GET_RELATIONSHIP Lika Daughter
+GET_RELATIONSHIP Dritha Daughter
+GET_RELATIONSHIP Jaya Daughter
+GET_RELATIONSHIP Yodhan Siblings
+
+
+
